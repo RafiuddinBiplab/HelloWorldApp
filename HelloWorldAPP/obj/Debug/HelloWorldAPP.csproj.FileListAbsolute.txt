@@ -1,0 +1,6 @@
+E:\Batch-4.Net\HelloWorldAPP\HelloWorldAPP\bin\Debug\HelloWorldAPP.exe.config
+E:\Batch-4.Net\HelloWorldAPP\HelloWorldAPP\bin\Debug\HelloWorldAPP.exe
+E:\Batch-4.Net\HelloWorldAPP\HelloWorldAPP\bin\Debug\HelloWorldAPP.pdb
+E:\Batch-4.Net\HelloWorldAPP\HelloWorldAPP\obj\Debug\HelloWorldAPP.csprojResolveAssemblyReference.cache
+E:\Batch-4.Net\HelloWorldAPP\HelloWorldAPP\obj\Debug\HelloWorldAPP.exe
+E:\Batch-4.Net\HelloWorldAPP\HelloWorldAPP\obj\Debug\HelloWorldAPP.pdb
